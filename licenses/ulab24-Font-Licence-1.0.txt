@@ -1,0 +1,49 @@
+ulab24 Font Licence 1.0
+=======================
+
+Applies to: ulc Hand and ulc Mono (the "Fonts"), including every file built from
+their sources (UFO, OTF, TTF, WOFF2).
+
+Copyright 2026 ulab24. All rights reserved.
+
+1. Ownership
+   The Fonts, their outlines, and their source files belong to ulab24. This
+   licence gives you permission to use them. It does not transfer ownership.
+
+2. What you may do
+   a. Install and use the Fonts on your own devices, for personal and commercial work.
+   b. Use the Fonts inside ulc and other ulab24 software, as that software allows.
+   c. Publish work made with the Fonts: images, PDF files, SVG outlines, printed
+      matter, screenshots, videos. The work is yours.
+   d. Embed the Fonts in a PDF or document so it displays correctly (view and print
+      only, not editable by a recipient who could extract the font).
+
+3. What you may not do
+   a. Sell, rent, lend, sub-license or give away the Fonts, alone or in a bundle with
+      other fonts, or put the font files where others can download them.
+   b. Modify the Fonts or make derived fonts (including converting, merging or
+      re-drawing them), without written permission from ulab24.
+   c. Remove or change the copyright notice or the name inside the font files.
+   d. Use the Fonts, or work derived from the font files, to train a machine-learning
+      model that generates or recognises fonts.
+   e. Use the names "ulc", "ulab24" or "ulc Hand" for any other font.
+
+4. Web and apps
+   You may serve the WOFF2 files from your own website only to display your own
+   pages. Do not offer them for download as a font. Shipping the Fonts inside an app
+   you distribute needs written permission from ulab24.
+
+5. Nerd Font build
+   ulab24 may publish a version of ulc Mono patched with Nerd Fonts icons. The ulc Mono
+   parts are under this licence; the added icons stay under their own licences (see
+   nerd-fonts-icons-NOTICE.txt). You may not make such a patched version yourself.
+
+6. No warranty
+   The Fonts are provided "as is", without warranty of any kind. ulab24 is not liable
+   for any loss from their use, to the extent the law allows.
+
+7. Ending
+   This licence ends automatically if you break it. Then delete all copies of the Fonts.
+
+This text is a working draft, not legal advice. Have a lawyer review it before the
+Fonts are published to other people.

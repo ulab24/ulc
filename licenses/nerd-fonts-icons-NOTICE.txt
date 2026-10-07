@@ -1,0 +1,27 @@
+Nerd Fonts icons in the ulc Mono Nerd Font build
+================================================
+
+The Nerd Font build of ulc Mono (dist/ulc-mono-nerd, attached to a release as
+ulc-fonts-nerd-<version>.zip) is ulc Mono with extra icon glyphs added by the Nerd Fonts
+patcher (https://github.com/ryanoasis/nerd-fonts, MIT licence for the patcher).
+
+Parts and who owns them
+- ulc Mono letters, digits, punctuation and our own icons (U+F8000 and up): ulab24,
+  under the ulab24 Font Licence 1.0 (ulab24-Font-Licence-1.0.txt, shipped alongside).
+- The added icons come from other projects, each under its own licence and kept by their
+  authors. The patcher adds, among others: Powerline and Powerline Extra symbols, Font
+  Awesome, Devicons, Seti-UI, Octicons, Codicons, Material Design Icons, Weather Icons,
+  Font Logos, Pomicons and IEC Power Symbols. Their copyright notices and licence texts are
+  in the Nerd Fonts repository (LICENSE and the license files under it), at the version of
+  the patcher image used for the build.
+- Brand and operating-system logos in those sets are trademarks of their owners. ulab24
+  does not redraw them and claims no rights in them.
+
+Rules for this build
+1. Ship this notice, the ulab24 Font Licence and the Nerd Fonts licence files together
+   with the patched font files.
+2. The icon glyphs are not covered by the ulab24 Font Licence; use them under their own
+   licences.
+3. Before the first public release, copy the licence files from the exact Nerd Fonts
+   version used into this folder and list them here. This notice names the sets but
+   does not replace their licence texts. Not legal advice.
