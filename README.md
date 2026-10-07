@@ -18,10 +18,10 @@ This repository holds **built releases only** (JavaScript packages and fonts). u
 
 ## Install
 
-Each release has four packages. Install the ones you need **in one command**, from the release files (no account or token needed). Replace `0.1.0` with the version you want (see [Releases](../../releases)):
+Each release has four packages. Install the ones you need **in one command**, from the release files (no account or token needed). Replace `0.1.1` with the version you want (see [Releases](../../releases)):
 
 ```sh
-V=0.1.0
+V=0.1.1
 B=https://github.com/ulab24/ulc/releases/download/ulc-$V
 npm install $B/ulc-engine-$V.tgz $B/ulc-renderer-$V.tgz $B/ulc-editor-$V.tgz
 # a server that checks AI tool calls also needs:  $B/ulc-mcp-schema-$V.tgz
