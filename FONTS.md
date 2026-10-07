@@ -22,7 +22,7 @@ In a terminal, set the font to `ulc Mono` (or `ulc Mono NL`). Pick a weight by i
 
 ## Check the download
 
-Same as the library: `gpg --verify checksums.txt.asc checksums.txt` with [ulab24-release-key.asc](ulab24-release-key.asc), then `sha256sum -c checksums.txt`.
+Same as the library: `gpg --verify checksums.txt.asc checksums.txt` with [ulab24-release-signing-key.asc](ulab24-release-signing-key.asc), then `sha256sum -c checksums.txt`.
 
 ## Licence
 

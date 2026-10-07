@@ -53,10 +53,10 @@ Your app owns login, storage, sharing and sync. Send local changes to your serve
 
 ## Verify a download
 
-Releases carry `checksums.txt` signed with the ulab24 release key (`checksums.txt.asc`). The public key is [ulab24-release-key.asc](ulab24-release-key.asc).
+Releases carry `checksums.txt` signed with the ulab24 release key (`checksums.txt.asc`). The public key is [ulab24-release-signing-key.asc](ulab24-release-signing-key.asc).
 
 ```sh
-gpg --import ulab24-release-key.asc
+gpg --import ulab24-release-signing-key.asc
 gpg --verify checksums.txt.asc checksums.txt
 sha256sum -c checksums.txt          # shasum -a 256 -c checksums.txt on macOS
 ```
